@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+.navbar{
+    background-color: darkred;
+}
+
+.container{
+    margin-top: 3vh;
+}
+
+.card{
+    background-color: white;
+}
+
+.card-header{
+    background-color: rgb(130, 0, 0);
+}
+
+.card-body{
+    background-color: rgb(179, 62, 62);
+}
+
+
+.form-control{
+    background-color: white;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+}
