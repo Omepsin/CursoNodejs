@@ -1,9 +1,11 @@
 body{
     background-color: black;
+    color: white;
 }
 
 .navbar{
     background-color: darkred;
+    margin-bottom: 15px;
 }
 
 .container{
@@ -30,4 +32,22 @@ body{
 .btn{
     background-color: red;
     color: white;
+}
+
+#link-form{
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 3px;
+}
+
+#link-form:hover{
+    color: black;
+}
+
+.card{
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
